@@ -1,13 +1,47 @@
-# Lane-Emden Equation
-# Chandrasekhar Limit
+# Lane–Emden Equation Article
 
-This repository contains a detailed student-written article on the **Chandrasekhar Limit**, exploring the physics behind white dwarf stability, degeneracy pressure, electron capture, and gravitational collapse.
+This repository contains a self-written review article on the **Lane–Emden equation** and its applications in astrophysics, especially in the context of **polytropic models of stellar structure**. The article covers the derivation of the Lane–Emden equation, analytical and numerical solutions, and physical implications for white dwarfs and stellar evolution.
 
-- 📄 Article PDF: [Chandrasekhar_Limit.pdf](Chandrasekhar_Limit.pdf)
-- 🧠 Topics: Stellar evolution, Fermi pressure, gravitational equilibrium, relativistic limits.
+ **Read the article**: [Lane-Emden-Article-Cleaned.pdf](Lane-Emden-Article-Cleaned.pdf)
 
-## Author
+---
 
-Arnav Wadalkar  
-Undergraduate Physics Student  
-NIT Rourkela
+## Contents
+
+-  **Lane-Emden-Article-Cleaned.pdf**: Final cleaned version of the article
+- Mathematical derivation of the Lane–Emden equation from hydrostatic equilibrium and Poisson's equation
+- Physical interpretation of polytropic indices and stellar structure
+- Applications to astrophysical systems including white dwarfs
+
+---
+
+# 🛠️ Tools & Methods
+
+- Analytical derivations (pen-and-paper style)
+- Numerical methods for non-analytical solutions (Euler method and Runge-Kutta referenced)
+- Comparison with observational data and physical constraints
+
+---
+
+##  Author
+
+**Arnav Wadalkar**  
+Student of Physics at NIT Rourkela  
+Actively working on theoretical astrophysics and particle physics  
+GitHub: [@ArnavWadalkar](https://github.com/ArnavWadalkar)
+
+---
+
+## License
+
+This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose
+
+**Attribution required**: Please credit the author if you reuse or modify this work.
+
+See [LICENSE](LICENSE) for details.
+
