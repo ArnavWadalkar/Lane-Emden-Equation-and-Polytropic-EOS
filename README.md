@@ -2,7 +2,6 @@
 
 This repository contains a self-written review article on the **Lane–Emden equation** and its applications in astrophysics, especially in the context of **polytropic models of stellar structure**. The article covers the derivation of the Lane–Emden equation, analytical and numerical solutions, and physical implications for white dwarfs and stellar evolution.
 
- **Read the article**: [Lane-Emden-Equation-Article_compressed.pdf](Lane-Emden-Equation-Article_compressed.pdf)
 
 ---
 
@@ -22,6 +21,12 @@ This repository contains a self-written review article on the **Lane–Emden equ
 - Comparison with observational data and physical constraints
 
 ---
+##  Files
+
+- `P_index=3.ipynb`: Solves the Lane–Emden equation for polytropic index \( n = 3 \), relevant for modeling relativistic degenerate electron pressure in white dwarfs.
+- `simulation.py`: Simulates white dwarf core collapse via electron capture, tracking density evolution and onset of instability.
+- `Chandrasekhar_Limit.pdf`: Final article explaining the Chandrasekhar limit, polytropic models, and collapse mechanisms. *[Download if GitHub preview fails](./Chandrasekhar_Limit.pdf).*
+
 
 ##  Author
 
