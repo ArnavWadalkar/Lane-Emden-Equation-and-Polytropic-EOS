@@ -2,7 +2,7 @@
 
 This repository contains a self-written review article on the **Lane–Emden equation** and its applications in astrophysics, especially in the context of **polytropic models of stellar structure**. The article covers the derivation of the Lane–Emden equation, analytical and numerical solutions, and physical implications for white dwarfs and stellar evolution.
 
- **Read the article**: [Lane-Emden-Article-Cleaned.pdf](Lane-Emden-Article-Cleaned.pdf)
+ **Read the article**: [Lane Emden Equation Article_compressed.pdf](Lane-Emden-Equation-Article_compressed.pdf)
 
 ---
 
@@ -15,7 +15,7 @@ This repository contains a self-written review article on the **Lane–Emden equ
 
 ---
 
-# 🛠️ Tools & Methods
+# Tools & Methods
 
 - Analytical derivations (pen-and-paper style)
 - Numerical methods for non-analytical solutions (Euler method and Runge-Kutta referenced)
