@@ -21,12 +21,6 @@ This repository contains a self-written review article on the **Lane–Emden equ
 - Comparison with observational data and physical constraints
 
 ---
-##  Files
-
-- `P_index=3.ipynb`: Solves the Lane–Emden equation for polytropic index \( n = 3 \), relevant for modeling relativistic degenerate electron pressure in white dwarfs.
-- `simulation.py`: Simulates white dwarf core collapse via electron capture, tracking density evolution and onset of instability.
-- `Chandrasekhar_Limit.pdf`: Final article explaining the Chandrasekhar limit, polytropic models, and collapse mechanisms. *[Download if GitHub preview fails](./Chandrasekhar_Limit.pdf).*
-
 
 ##  Author
 
